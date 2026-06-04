@@ -1,5 +1,7 @@
 ![Standing Wave Viewer image](images/SWVtitle.jpg)
 
+##  This repository is for developing web-based applications. For a more feature-rich standalone version, please visit [swv_desktop](https://github.com/TatschanT/swv_desktop).
+
 Standing Wave Viewer is an 3D acoustic simulation and visualization tool built with Python and Streamlit. It calculates and visualizes room modes (standing waves) and low-frequency interference patterns to help optimize subwoofer/speaker placement and listening positions. To learn technical details behind, please refer docunets/Q_A_en.md.
 
 Please note that this is an amateur project that began as a personal endeavor, and is not intended to serve as a fully rigorous verification tool for professional use.
